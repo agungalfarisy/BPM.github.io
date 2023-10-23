@@ -1900,8 +1900,15 @@ section {
 }
 
 .blog .entry .entry-img {
-  max-height: 440px;
+  max-height: 500px;
   margin: -30px -30px 20px -30px;
+  overflow: hidden;
+}
+
+.potrait {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   overflow: hidden;
 }
 
